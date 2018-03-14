@@ -160,7 +160,7 @@ def read_retuters_files(path="./reuters-21578/"):
             f = open(path + file, 'r', encoding="ISO-8859-1")
             data = f.read()
 
-            soup = BeautifulSoup(data, "html5lib")
+            soup = BeautifulSoup(data)
             posts = soup.findAll("reuters")
 
             for post in posts:
