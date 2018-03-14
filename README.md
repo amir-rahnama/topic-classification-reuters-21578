@@ -8,12 +8,22 @@ is reaching more than 99% accuracy on the same task. I do believe that there sho
 
 ### Get started
 
+First, clone the project like a good Github user:
+```bash
+git clone git@github.com:ambodi/topic-classification-reuters-21578.git
+```
+
+Then, cd into the working directory:
+
+```
+cd topic-classification-reuters-21578
+```
+
 In order to run the project, fist install all the pip requirements:
 
 ```bash
 pip install -r requirements.txt
 ```
-
 
 After that, run the training functions:
 
