@@ -68,9 +68,10 @@ The insane progress after the first epoch and the beginning of the second epoch.
 To me, that is as bad as having a low accuracy model. It should feel the same for true Machine Learning folks, however in the age of deep learning,
 over-fitting is kinda more accepted (ehem!)
 
+<img alt="screen shot 2018-03-14 at 19 11 57" src="https://user-images.githubusercontent.com/6009583/37431785-7c2a5080-27d6-11e8-8474-8645d2299fd0.png">
 
 
-
+<img width="1069" alt="screen shot 2018-03-14 at 19 12 28" src="https://user-images.githubusercontent.com/6009583/37431876-bc6d4ada-27d6-11e8-83ea-17f0f5f38ebe.png">
 
 
 ### Future Work
