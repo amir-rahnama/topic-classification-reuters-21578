@@ -19,6 +19,18 @@ Then, cd into the working directory:
 cd topic-classification-reuters-21578
 ```
 
+Create a virtualenv:
+
+```bash
+conda create -n someenv python=3.4
+```
+
+Activate it:
+```bash
+source activate someenv
+```
+
+
 In order to run the project, fist install all the pip requirements:
 
 ```bash
