@@ -4,4 +4,4 @@ beautifulsoup4==4.6.0
 gensim==3.4.0
 Keras==2.0.4
 h5py==2.6.0
-tensorflow==1.0.1
+tensorflow==1.15.0
